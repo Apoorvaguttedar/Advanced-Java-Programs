@@ -1,6 +1,10 @@
 1a_Arraylist->https://github.com/Apoorvaguttedar/Advanced-Java-Programs/blob/main/1a/Arraylist.png
+
 1b_1_Search_color->https://github.com/Apoorvaguttedar/Advanced-Java-Programs/blob/main/1b/Red_Removal.png
+
 1b_2_Blue->https://github.com/Apoorvaguttedar/Advanced-Java-Programs/blob/main/1b/Blue.png
+
+
 1b_3_Sort->https://github.com/Apoorvaguttedar/Advanced-Java-Programs/blob/main/1b/Sort_color.png
 1b_4_Sublist->https://github.com/Apoorvaguttedar/Advanced-Java-Programs/blob/main/1b/SubList.png
 1b_5_Removebyindex->https://github.com/Apoorvaguttedar/Advanced-Java-Programs/blob/main/1b/Removal_Index.png
