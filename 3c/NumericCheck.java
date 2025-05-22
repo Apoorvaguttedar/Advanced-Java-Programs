@@ -1,3 +1,7 @@
+/*Write a Java Program for Verifying if a string contains only numeric 
+characters using user defined  function isNumeric()*/
+
+
 package JavaCollection;
 
 import java.util.Scanner;
